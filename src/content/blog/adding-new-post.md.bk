@@ -1,0 +1,53 @@
+---
+author: Sat Naing
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
+title: Licenta 
+slug: adding-new-posts-in-astropaper-theme
+featured: true
+draft: false
+tags:
+  - docs
+description:
+  Some rules & recommendations for creating or adding new posts using AstroPaper
+  theme.
+---
+
+radu examene 
+1. Sesiune examen ( 3 saptamani Ianuarie Februarie delta 4 - 5 zile)
+2.  Presesiune a 2 a parte a lui Ian (la ultimul laborator0) ultimele 2 saptamani; saptamana 13- 14 a semestrului variaza(coluciu)
+3. Fara seminarii 
+> nu avem punctaj inca definit 
+
+## Lectie 
+- vocabular
+-  variabile 
+- semantica 
+C nu este un limba nu prea inalt (este relativ ).
+Limba de nivel inalt este un limbaj de conceptualizare mai inalt.
+Program este o secventa de instructiuni logice care trebuie sa indeplineasca un anumit scop.
+
+
+## Caracteristicile limbajului C
+- Imperativ
+> Totul trebuie definit de programator
+- Structurat,Procedural
+> organizat pe module de cod, code blocks(blocuri de cod), modular, debugging 
+> blocurile de cod pot primi un nume si pot accepta si parametri(functie)
+> cel putin o functie, MAIN, oricat de multe atat cat poate suporta masina
+> procedura este defapt VOID
+- Netipizat
+> type system se pot face conversii de la int la char si asa mai departe, se pot face 
+- Ne-oo(ne orientat pe obiecte)
+- Compilat
+- Ne-portabil
+
+Tipuri de limbaje de programare:
+- Imperativ
+> toate instructiunile care trebuie executate trbuie scrise
+- Declarativ(sql)
+> este 
+- Functional(haskel)
+### O conditie necesara ca un program sa fie corect este ca toate firele de executie sa aiba lungime finita(toate sa aiba len finita), pt oricare dintre intrari.
+### conditia de terminare a buclelor vor fi satisfacute pentru oricare dintre intrari 
+
