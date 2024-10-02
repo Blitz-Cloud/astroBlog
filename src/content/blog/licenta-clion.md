@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Ionut
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
 title: Cum sa obtii acces la licenta pentru Clion
