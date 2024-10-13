@@ -4,7 +4,7 @@ pubDatetime: 2024-10-13T22:00:00Z
 modDatetime: 2024-10-13T22:00:00Z
 title: Go code
 slug: go-code
-featured: true
+featured: false
 draft: false
 tags:
   - go
