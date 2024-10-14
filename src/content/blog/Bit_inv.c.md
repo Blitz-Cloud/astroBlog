@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T19:00:00Z
+pubDatetime: 2024-10-14T19:43:00Z 
 title: Operatori Tip0090 Bit_inv.c
 slug: Bit_inv.c
 featured: false
@@ -10,17 +10,15 @@ tags:
   - poli
 description: exemple de cod
 ---
-
 ```c
 #include <stdio.h>
 
-void main(void)
+int main(int)
  {
    int value = 0xFF;
 
-   printf("The inverse of %!X(MISSING) is %!X(MISSING)\n", value, ~value);
+   printf("The inverse of %X is %X\n", value, ~value);
  }
 
 ```
-
-[Ruleaza codul cu cpp.sh](<https://cpp.sh/?source=%!i(MISSING)nclude+%!C(MISSING)stdio.h%!E(MISSING)%!D(MISSING)%!A(MISSING)%!D(MISSING)%!A(MISSING)void+main%!v(MISSING)oid%0D%!A(MISSING)+%!B(MISSING)%!D(MISSING)%!A(MISSING)+++int+value+%!D(MISSING)+0xFF%!B(MISSING)%!D(MISSING)%!A(MISSING)%!D(MISSING)%!A(MISSING)+++printf%22The+inverse+of+%!X(MISSING)+is+%!X(MISSING)%!C(MISSING)n%2C+value%!C(MISSING)+~value%3B%!D(MISSING)%!A(MISSING)+%!D(MISSING)%!D(MISSING)%!A(MISSING)>)
+<a href='https://cpp.sh/?source=%23include+%3Cstdio.h%3E%0D%0A%0D%0Aint+main%28int%29%0D%0A+%7B%0D%0A+++int+value+%3D+0xFF%3B%0D%0A%0D%0A+++printf%28%22The+inverse+of+%25X+is+%25X%5Cn%22%2C+value%2C+~value%29%3B%0D%0A+%7D%0D%0A' target='_blank'> Ruleaza codul cu cpp.sh </a>

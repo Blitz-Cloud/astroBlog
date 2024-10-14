@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:45:00Z 
 title: Operatori Tip0094 SHIFTEM.C
 slug: SHIFTEM.C
 featured: false

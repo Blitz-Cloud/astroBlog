@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:40:00Z 
 title: Operatori Tip0087 Bit_or.c
 slug: Bit_or.c
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:36:00Z 
 title: Operatori Tip0082 Modulo.c
 slug: Modulo.c
 featured: false

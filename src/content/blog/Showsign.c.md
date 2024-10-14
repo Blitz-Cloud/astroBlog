@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:59:00Z 
 title: Printf Tip0064 Showsign.c
 slug: Showsign.c
 featured: false

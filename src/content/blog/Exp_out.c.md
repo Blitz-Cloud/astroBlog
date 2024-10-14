@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:55:00Z 
 title: Printf Tip0060 Exp_out.c
 slug: Exp_out.c
 featured: false

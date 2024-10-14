@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:39:00Z 
 title: Operatori Tip0086 Postpre.c
 slug: Postpre.c
 featured: false

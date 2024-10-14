@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:56:00Z 
 title: Printf Tip0061 Flt_pt.c
 slug: Flt_pt.c
 featured: false

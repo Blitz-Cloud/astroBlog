@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:62:00Z 
 title: Printf Tip0067 Show_oh.c
 slug: Show_oh.c
 featured: false

@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:61:00Z 
 title: Printf Tip0066 Zero_pad.c
 slug: Zero_pad.c
 featured: false

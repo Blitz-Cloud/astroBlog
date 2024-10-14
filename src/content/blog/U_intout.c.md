@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:51:00Z 
 title: Printf Tip0056 U_intout.c
 slug: U_intout.c
 featured: false

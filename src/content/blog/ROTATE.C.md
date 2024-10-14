@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:46:00Z 
 title: Operatori Tip0095 ROTATE.C
 slug: ROTATE.C
 featured: false

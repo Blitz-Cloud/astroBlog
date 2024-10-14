@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:54:00Z 
 title: Printf Tip0059 Char_out.c
 slug: Char_out.c
 featured: false

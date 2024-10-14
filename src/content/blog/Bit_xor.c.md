@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:42:00Z 
 title: Operatori Tip0089 Bit_xor.c
 slug: Bit_xor.c
 featured: false

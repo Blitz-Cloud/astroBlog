@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:58:00Z 
 title: Printf Tip0063 Ptr_out.c
 slug: Ptr_out.c
 featured: false

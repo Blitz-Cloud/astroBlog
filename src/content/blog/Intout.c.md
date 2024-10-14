@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:49:00Z 
 title: Printf Tip0054 Intout.c
 slug: Intout.c
 featured: false

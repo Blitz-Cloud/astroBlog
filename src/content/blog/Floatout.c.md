@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:53:00Z 
 title: Printf Tip0058 Floatout.c
 slug: Floatout.c
 featured: false

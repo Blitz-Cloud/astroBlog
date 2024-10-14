@@ -1,6 +1,6 @@
 ---
 author: Ionut
-pubDatetime: 2024-10-13T20:00:00Z 
+pubDatetime: 2024-10-14T19:44:00Z 
 title: Operatori Tip0093 Sizeof.c
 slug: Sizeof.c
 featured: false
